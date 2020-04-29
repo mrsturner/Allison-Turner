@@ -1,8 +1,8 @@
 ## Introduction
 
-Allison Turner is a SAHM looking to branch out with a new career, Full Stack Developer. Always a student and interested in the Tech industry but only started formal training after her daughter began going to school. She was looking for a way to break away for only being a mom and found a desire to be more invested in her interests. 
+Allison Turner is a SAHM looking to branch out with a new career, Full Stack Developer. Always a student and interested in the Tech industry but only started formal training after my daughter began going to school full time. I  was looking for a way to break away from only being a mom and found a desire to be more invested in my interests. 
 
-She began with a starting a business as a virtual assistant and a her customer base grew, so did the needs of those customers. Many of the needs were IT rooted and with only the knowledge from her interest in tech, she decided to get some training. Now a recent graduate Allison is looking to gain some work experience and if you are interested in hiring please keep scrolling. 
+I began with a starting a business as a virtual assistant and as my customer base grew, so did the needs of those customers. Many of the needs were IT rooted and with only the knowledge from my interest in tech, I decided to get some training. Now a recent graduate this SAHM is looking to gain some work experience and if you are interested in hiring please keep scrolling. 
 
 ### What does Allison know?
 
@@ -28,23 +28,16 @@ Accountable Entry Level Software Developer enthusiastic about developing a caree
 * Basics of AWS
 * SQL, MySQL, MongoDB
 
-### Header 3
+### Where I am on Social Media
 
 
-1. Numbered
-2. List
+1. **LinkedIn** (https://www.linkedin.com/in/allison-turner-27b63718)
+2. **GitHub** (https://github.com/mrsturner)
+3. **Twitter** (https://twitter.com/StrengthNMother)
+4. **Facebook** (https://www.facebook.com/allierj)
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](https://mrsturner.github.io/BeanPole/) and ![Image](Powerof.JPG)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrsturner/BeanPole/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
