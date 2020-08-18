@@ -12,7 +12,7 @@ Assisted in creating an effective office system for a thriving private practice.
 
 # Professional Summary
 
- Software Engineer enthusiastic about developing a career that will prove how determined I am to provide reliable work ethic in addition to being a loyal comrade to your company. Creator of practical and time saving software solutions, I am Allison Turner! [Read More](##skills) 
+ Software Engineer enthusiastic about developing a career that will prove how determined I am to provide reliable work ethic in addition to being a loyal comrade to your company. Creator of practical and time saving software solutions, I am [Allison Turner](##skills)! 
 
 ## Skills
 
