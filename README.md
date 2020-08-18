@@ -1,2 +1,2 @@
 # BeanPole
-Portfolio of skills. Resume. 
+Portfolio
